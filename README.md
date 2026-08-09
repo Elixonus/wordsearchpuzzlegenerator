@@ -1,8 +1,8 @@
-# Word Search Generator 🧩
+# Word Search Puzzle Generator 🧩
 
 A tool for generating word search puzzles instamagically.
 
-![Word Search Example](./example.png)
+![Word Search Puzzle Example](./example.png)
 
 ## About
 
